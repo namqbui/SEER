@@ -1,0 +1,103 @@
+"ICD-O-3 Hist/behav, malignant"	"Count"	"Column Percent"	"Cumulative Column Percent"
+8000/3: Neoplasm, malignant	484	0.8%	0.8%
+8001/3: Tumor cells, malignant	2	0.0%	0.8%
+8002/3: Malignant tumor, small cell type	3	0.0%	0.8%
+8003/3: Malignant tumor, giant cell type	15	0.0%	0.9%
+8004/3: Malignant tumor, spindle cell type	9	0.0%	0.9%
+8005/3: Malignant tumor, clear cell type	1	0.0%	0.9%
+8800/3: Sarcoma, NOS	4,405	7.6%	8.4%
+8801/3: Spindle cell sarcoma	1,771	3.0%	11.5%
+8802/3: Giant cell sarcoma	1,846	3.2%	14.6%
+8803/3: Small cell sarcoma	144	0.2%	14.9%
+8804/3: Epithelioid sarcoma	584	1.0%	15.9%
+8805/3: Undifferentiated sarcoma	465	0.8%	16.7%
+8806/3: Desmoplastic small round cell tumor	132	0.2%	16.9%
+8810/3: Fibrosarcoma, NOS	1,333	2.3%	19.2%
+8811/3: Fibromyxosarcoma	1,648	2.8%	22.0%
+8812/3: Periosteal fibrosarcoma	25	0.0%	22.1%
+8813/3: Fascial fibrosarcoma	35	0.1%	22.1%
+8815/3: Solitary fibrous tumor, malignant	145	0.2%	22.4%
+8821/3: Aggressive fibromatosis, malignant	1	0.0%	22.4%
+8822/3: Abdominal fibromatosis, malignant	1	0.0%	22.4%
+8823/3: Desmoplastic fibrosarcoma	1	0.0%	22.4%
+8825/3: Myofibroblastoma, malignant	46	0.1%	22.5%
+8830/3: Malignant fibrous histiocytoma	8,065	13.8%	36.3%
+8832/3: Dermatofibrosarcoma, NOS	1,446	2.5%	38.8%
+8833/3: Pigmented dermatofibrosarcoma protuberans	35	0.1%	38.9%
+8835/3: Malignant plexiform fibrohistiocytic tumor	3	0.0%	38.9%
+8836/3: Malignant angiomatoid fibrous histiocytoma	8	0.0%	38.9%
+8840/3: Myxosarcoma	283	0.5%	39.4%
+8841/3: Angiomyxoma, malignant	1	0.0%	39.4%
+8842/3: Ossifying fibromyxoid tumor, malignant	9	0.0%	39.4%
+8850/3: Liposarcoma, NOS	1,827	3.1%	42.5%
+8851/3: Liposarcoma, well differentiated	2,558	4.4%	46.9%
+8852/3: Myxoid liposarcoma	2,407	4.1%	51.0%
+8853/3: Round cell liposarcoma	251	0.4%	51.5%
+8854/3: Pleomorphic liposarcoma	854	1.5%	52.9%
+8855/3: Mixed liposarcoma	294	0.5%	53.4%
+8857/3: Fibroblastic liposarcoma	11	0.0%	53.5%
+8858/3: Dedifferentiated liposarcoma	893	1.5%	55.0%
+8860/3: Angiomyoliposarcoma	3	0.0%	55.0%
+8890/3: Leiomyosarcoma, NOS	6,194	10.6%	65.6%
+8891/3: Epithelioid leiomyosarcoma	149	0.3%	65.9%
+8893/3: Bizarre leiomyosarcoma	1	0.0%	65.9%
+8894/3: Angiomyosarcoma	32	0.1%	65.9%
+8895/3: Myosarcoma	55	0.1%	66.0%
+8896/3: Myxoid leiomyosarcoma	92	0.2%	66.2%
+8897/3: Malignant tumor of smooth muscle	1	0.0%	66.2%
+8900/3: Rhabdomyosarcoma, NOS	411	0.7%	66.9%
+8901/3: Pleomorphic rhabdomyosarcoma, adult type	300	0.5%	67.4%
+8902/3: Mixed type rhabdomyosarcoma	7	0.0%	67.4%
+8910/3: Embryonal rhabdomyosarcoma, NOS	144	0.2%	67.7%
+8912/3: Spindle cell rhabdomyosarcoma	27	0.0%	67.7%
+8920/3: Alveolar rhabdomyosarcoma	147	0.3%	68.0%
+8982/3: Malignant myoepithelioma	51	0.1%	68.0%
+8990/3: Mesenchymoma, malignant	99	0.2%	68.2%
+8991/3: Embryonal sarcoma	1	0.0%	68.2%
+9040/3: Synovial sarcoma, NOS	975	1.7%	69.9%
+9041/3: Synovial sarcoma, spindle cell	629	1.1%	71.0%
+9042/3: Synovial sarcoma, epithelioid cell	17	0.0%	71.0%
+9043/3: Synovial sarcoma, biphasic	389	0.7%	71.7%
+9044/3: Clear cell sarcoma, NOS (except of kidney M-8964/3)	259	0.4%	72.1%
+9120/3: Hemangiosarcoma	1,916	3.3%	75.4%
+9125/3: Epithelioid hemangiosarcoma	1	0.0%	75.4%
+9130/3: Hemangioendothelioma, malignant	121	0.2%	75.6%
+9133/3: Epithelioid hemangioendothelioma, malignant	145	0.2%	75.9%
+9150/3: Hemangiopericytoma, malignant	384	0.7%	76.5%
+9170/3: Lymphangiosarcoma	45	0.1%	76.6%
+9180/3: Osteosarcoma, NOS	2,184	3.7%	80.3%
+9181/3: Chondroblastic osteosarcoma	369	0.6%	81.0%
+9182/3: Fibroblastic osteosarcoma	201	0.3%	81.3%
+9183/3: Telangiectatic osteosarcoma	55	0.1%	81.4%
+9184/3: Osteosarcoma in Paget disease of bone	83	0.1%	81.6%
+9185/3: Small cell osteosarcoma	20	0.0%	81.6%
+9186/3: Central osteosarcoma	36	0.1%	81.7%
+9187/3: Intraosseous well differentiated osteosarcoma	5	0.0%	81.7%
+9192/3: Parosteal osteosarcoma	195	0.3%	82.0%
+9193/3: Periosteal osteosarcoma	29	0.0%	82.0%
+9194/3: High grade surface osteosarcoma	7	0.0%	82.1%
+9200/3: Osteosarcoma, malignant	1	0.0%	82.1%
+9220/3: Chondrosarcoma, NOS	3,974	6.8%	88.9%
+9221/3: Juxtacortical chondrosarcoma	40	0.1%	89.0%
+9230/3: Chondroblastoma, malignant	22	0.0%	89.0%
+9231/3: Myxoid chondrosarcoma	629	1.1%	90.1%
+9240/3: Mesenchymal chondrosarcoma	154	0.3%	90.3%
+9242/3: Clear cell chondrosarcoma	47	0.1%	90.4%
+9243/3: Dedifferentiated chondrosarcoma	216	0.4%	90.8%
+9250/3: Giant cell tumor of bone, malignant	274	0.5%	91.3%
+9251/3: Malignant giant cell tumor of soft parts	61	0.1%	91.4%
+9252/3: Malignant tenosynovial giant cell tumor	32	0.1%	91.4%
+9260/3: Ewing sarcoma	1,003	1.7%	93.1%
+9261/3: Adamantinoma of long bones	55	0.1%	93.2%
+9364/3: Peripheral neuroectodermal tumor	208	0.4%	93.6%
+9365/3: Askin tumor	4	0.0%	93.6%
+9370/3: Chordoma, NOS	1,210	2.1%	95.7%
+9371/3: Chondroid chordoma	52	0.1%	95.8%
+9372/3: Dedifferentiated chordoma	8	0.0%	95.8%
+9540/3: Malignant peripheral nerve sheath tumor	1,560	2.7%	98.4%
+9560/3: Neurilemoma, malignant (OBS)	618	1.1%	99.5%
+9561/3: MPNST with rhabdomyoblastic differentiation	61	0.1%	99.6%
+9571/3: Perineurioma, malignant	8	0.0%	99.6%
+9580/3: Granular cell tumor, malignant	57	0.1%	99.7%
+9581/3: Alveolar soft part sarcoma	160	0.3%	100.0%
+Total	58,274	100.0%	100.0%

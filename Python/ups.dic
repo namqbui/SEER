@@ -1,0 +1,68 @@
+[System]
+Output filename=C:\Users\namqb\Documents\SEER\Python\Data\ups.txt
+Matrix filename=C:\Users\namqb\Documents\SEER\Python\ups.slm
+Database name=Incidence - SEER 18 Regs Research Data + Hurricane Katrina Impacted Louisiana Cases, Nov 2015 Sub (1973-2013 varying) - Linked To County Attributes - Total U.S., 1969-2014 Counties
+Title1=UPS Sarcoma
+
+[Session Options]
+Type=Case Listing
+
+[Export Options]
+GZipped=false
+Variable format=labels
+File format=DOS/Windows
+Field delimiter=tab
+Missing character=space
+Fields with delimiter in quotes=false
+Remove thousands separators=false
+Variable names included=true
+Column Variables as Stats=false
+
+[Variables]
+Var1Name=Patient ID
+Var1DisplayType=Formatted
+Var2Name=ICD-O-3 Hist/behav, malignant
+Var2DisplayType=Formatted
+Var3Name=Year of diagnosis
+Var3DisplayType=Formatted
+Var4Name=Sex
+Var4DisplayType=Formatted
+Var5Name=Age recode with single ages and 85+
+Var5DisplayType=Formatted
+Var6Name=Race/ethnicity
+Var6DisplayType=Formatted
+Var7Name=Survival months
+Var7DisplayType=Formatted
+Var8Name=Vital status recode (study cutoff used)
+Var8DisplayType=Formatted
+Var9Name=Primary Site - labeled
+Var9DisplayType=Formatted
+Var10Name=Grade
+Var10DisplayType=Formatted
+Var11Name=Derived AJCC T, 7th ed (2010+)
+Var11DisplayType=Formatted
+Var12Name=Derived AJCC T, 6th ed (2004+)
+Var12DisplayType=Formatted
+Var13Name=T value - based on AJCC 3rd (1988-2003)
+Var13DisplayType=Formatted
+Var14Name=Radiation
+Var14DisplayType=Formatted
+Var15Name=SEER historic stage A
+Var15DisplayType=Formatted
+Var16Name=Radiation sequence with surgery
+Var16DisplayType=Formatted
+Var17Name=Reason no cancer-directed surgery
+Var17DisplayType=Formatted
+Var18Name=CS tumor size (2004+)
+Var18DisplayType=Formatted
+Var19Name=CS extension (2004+)
+Var19DisplayType=Formatted
+Var20Name=CS lymph nodes (2004+)
+Var20DisplayType=Formatted
+Var21Name=CS mets at dx (2004+)
+Var21DisplayType=Formatted
+Var22Name=Regional nodes examined (1988+)
+Var22DisplayType=Formatted
+Var23Name=Regional nodes positive (1988+)
+Var23DisplayType=Formatted
+
